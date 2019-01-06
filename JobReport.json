@@ -1,0 +1,40 @@
+{
+
+  "ReprtedConfigParam":  ["TargetLayerThicknessInMM" , "ALL" , "HeadsVoltages","EnableMachineDB","HeadsTicklingVoltages" ],
+  "ReprtedRecipeParam":  ["HeatingBlowerVelocityInMM" , "AdoptPrintVelocityToRoll"],
+  "MaintenceHoursNum":   24,
+  "MaintenceEvents":     [
+                          "InkLoad",                
+                          "InkUnload",              
+                          "Cap",                    
+                          "Uncap",                  
+                          "HeadReplacement",        
+                          "RollerReplacment" ,      
+                          "TechnoporusReplacment",  
+                          "PurgeEvent",             
+                          "ScrubEvent",            
+                          "NozzlesInspectionEvent" 
+                         ],
+  "MailList":           [ "Yair.Bloom@xjet3d.com"],
+  "MachineDBServerAddress":"SWTEAM",
+  "DBUser":"ViewerUser",
+  "DBPassword":"ViewerUser",
+  "MachineDBName":"TestDB"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
